@@ -1,6 +1,6 @@
-👋 Hi, I’m @judithpatudith
-👀 I’m interested in Education
-🌱 I’m currently learning about moral psychology
+👋 Hi, I’m @judithpatudith\
+👀 I’m interested in Education\
+🌱 I’m currently learning about moral psychology\
 📫 Reach me on Twitter! @JudithPatudith
 
 <!---
